@@ -1,0 +1,2027 @@
+{
+ "children": [
+  {
+   "children": [
+    {
+     "name": "AHCSH Mouse Genetics Lab",
+     "size": 93000.0
+    },
+    {
+     "name": "AHCSH MolecularCellular Therap",
+     "size": 703355.406
+    },
+    {
+     "name": "AHCSH Infectious Disease Rsrch",
+     "size": 1440936.94
+    },
+    {
+     "name": "AHCSH Education Office",
+     "size": 864715.474
+    },
+    {
+     "name": "AHCSH CAHP Medical Lab Sci",
+     "size": 844929.7700000001
+    },
+    {
+     "name": "AHCSH Research Animal Res",
+     "size": 6044533.250000001
+    },
+    {
+     "name": "AHCSH Translational Med, Ctr",
+     "size": 611628.38
+    },
+    {
+     "name": "AHCSH Food Protection/Defense",
+     "size": 1776384.2920000001
+    },
+    {
+     "name": "AHCSH Spirituality & Healing",
+     "size": 1944679.015
+    },
+    {
+     "name": "AHCSH CUHCC",
+     "size": 8563862.713
+    },
+    {
+     "name": "AHCSH Univ Flow Cytometry Rsrc",
+     "size": 315733.29000000004
+    },
+    {
+     "name": "AHCSH BioMed Hlth Informatics",
+     "size": 2414222.895
+    },
+    {
+     "name": "AHCSH CAHP Occ Therapy",
+     "size": 885154.903
+    },
+    {
+     "name": "AHCSH Bioethics, Center For",
+     "size": 887916.5519999999
+    },
+    {
+     "name": "AHCSH Allied Health Center",
+     "size": 462165.54000000004
+    },
+    {
+     "name": "AHCSH Clin Translatnl Sci Inst",
+     "size": 10199775.588999998
+    },
+    {
+     "name": "AHCSH Drug Design, Ctr for",
+     "size": 2624448.83
+    },
+    {
+     "name": "AHCSH Biomedical Genomics",
+     "size": 1669570.86
+    },
+    {
+     "name": "AHCSH Cancer Center",
+     "size": 11421739.588999996
+    }
+   ],
+   "name": "ACADEMIC HEALTH CTR-SHARED"
+  },
+  {
+   "children": [
+    {
+     "name": "Translational Neurosci, Inst",
+     "size": 47985.6
+    },
+    {
+     "name": "Pharmacology",
+     "size": 4703179.478
+    },
+    {
+     "name": "Neurology",
+     "size": 8478997.230999999
+    },
+    {
+     "name": "Integrative Biology/Physiology",
+     "size": 3359970.176000001
+    },
+    {
+     "name": "Neurosurgery",
+     "size": 2476724.68
+    },
+    {
+     "name": "Anesthesiology",
+     "size": 5509202.9
+    },
+    {
+     "name": "Otolaryngology",
+     "size": 3313315.035
+    },
+    {
+     "name": "Genetics, Cell Biol, Dev MEDXX",
+     "size": 4808811.377
+    },
+    {
+     "name": "Biochem,Molec Biol,Biophy MEDX",
+     "size": 6419293.662
+    },
+    {
+     "name": "Radiation Oncology",
+     "size": 1946303.6999999997
+    },
+    {
+     "name": "Physical Med & Rehabilitation",
+     "size": 1873683.558
+    },
+    {
+     "name": "Emergency Medicine",
+     "size": 741739.3310000001
+    },
+    {
+     "name": "Urology",
+     "size": 3018941.622
+    },
+    {
+     "name": "Engineering in Med, Inst for",
+     "size": 459300.80000000005
+    },
+    {
+     "name": "Surgery",
+     "size": 17930502.826
+    },
+    {
+     "name": "Radiology",
+     "size": 14463757.396
+    },
+    {
+     "name": "Dermatology",
+     "size": 2562672.2290000003
+    },
+    {
+     "name": "Obstetrics & Gynecology",
+     "size": 6119413.121
+    },
+    {
+     "name": "Neuroscience",
+     "size": 8405609.510000002
+    },
+    {
+     "name": "Orthopaedic Surgery",
+     "size": 6114673.289999999
+    },
+    {
+     "name": "Microbiology",
+     "size": 4657731.947000001
+    },
+    {
+     "name": "Lab Medicine & Pathology",
+     "size": 13930766.254999999
+    },
+    {
+     "name": "Family Medicine & Cmty Health",
+     "size": 24588284.825999994
+    },
+    {
+     "name": "Rehabilitation Medicine",
+     "size": 2790545.602
+    },
+    {
+     "name": "Pediatrics",
+     "size": 35255151.970000006
+    },
+    {
+     "name": "Medical School Admin, MEDXX",
+     "size": 9774653.837
+    },
+    {
+     "name": "Ophthalmology",
+     "size": 5445863.560000001
+    },
+    {
+     "name": "Continuing Medical Education",
+     "size": 511093.20000000007
+    },
+    {
+     "name": "Psychiatry",
+     "size": 10788973.343999997
+    },
+    {
+     "name": "Medicine",
+     "size": 47359953.51699998
+    }
+   ],
+   "name": "MEDICAL SCHOOL - TC CAMPUS"
+  },
+  {
+   "children": [
+    {
+     "name": "CLA Austrian Studies, Ctr for",
+     "size": 36670.93
+    },
+    {
+     "name": "CLA Holocaust/Genocide Studies",
+     "size": 34284.0
+    },
+    {
+     "name": "CLA American Studies",
+     "size": 1201502.01
+    },
+    {
+     "name": "CLA Cultural Stdy & Comp Lit",
+     "size": 2201314.9769999995
+    },
+    {
+     "name": "CLA Immigration Hist Rsrch Ctr",
+     "size": 103417.6
+    },
+    {
+     "name": "CLA Classical & Near East Stdy",
+     "size": 1619725.8000000007
+    },
+    {
+     "name": "CLA Communication Studies",
+     "size": 2932471.690000001
+    },
+    {
+     "name": "CLA Tech Innov Svcs",
+     "size": 2687806.5999999996
+    },
+    {
+     "name": "CLA Art History",
+     "size": 1280525.9350000005
+    },
+    {
+     "name": "CLA Chicano & Latino Studies",
+     "size": 537499.4299999999
+    },
+    {
+     "name": "CLA Philosophy",
+     "size": 2087715.83
+    },
+    {
+     "name": "CLA Music",
+     "size": 6791936.319999987
+    },
+    {
+     "name": "CLA Administration",
+     "size": 2401004.2
+    },
+    {
+     "name": "CLA German, Scand & Dutch",
+     "size": 1999142.990000001
+    },
+    {
+     "name": "CLA Philosophy of Science, Ctr",
+     "size": 144114.22999999998
+    },
+    {
+     "name": "CLA American Indian Studies",
+     "size": 971634.15
+    },
+    {
+     "name": "CLA French & Italian",
+     "size": 2077226.3100000015
+    },
+    {
+     "name": "CLA Gender, Women & Sexuality",
+     "size": 1544578.0600000008
+    },
+    {
+     "name": "CLA Human Resources",
+     "size": 544495.4
+    },
+    {
+     "name": "CLA Statistics, School of",
+     "size": 3457470.3980000033
+    },
+    {
+     "name": "CLA Speech, Language, Hearing",
+     "size": 2319169.063000001
+    },
+    {
+     "name": "CLA Political Science",
+     "size": 4408908.639999999
+    },
+    {
+     "name": "CLA Art",
+     "size": 2508349.7800000017
+    },
+    {
+     "name": "CLA Geog, Environment &Society",
+     "size": 2519552.450000002
+    },
+    {
+     "name": "CLA English Languages & Lit",
+     "size": 4606138.144999999
+    },
+    {
+     "name": "CLA Psychology",
+     "size": 11259769.565000014
+    },
+    {
+     "name": "CLA Theatre Arts & Dance",
+     "size": 2945954.400000001
+    },
+    {
+     "name": "CLA Student Services",
+     "size": 4881741.85
+    },
+    {
+     "name": "CLA Asian Languages & Lit",
+     "size": 2279093.3970000003
+    },
+    {
+     "name": "CLA Linguistics, Institute of",
+     "size": 764696.4
+    },
+    {
+     "name": "CLA Fiscal Administration",
+     "size": 2307336.600000001
+    },
+    {
+     "name": "CLA Anthropology",
+     "size": 2535880.4340000013
+    },
+    {
+     "name": "CLA Spanish & Portuguese",
+     "size": 3294402.820000002
+    },
+    {
+     "name": "CLA Writing Studies",
+     "size": 3892207.7820000034
+    },
+    {
+     "name": "CLA Institutional Advancement",
+     "size": 2058019.876
+    },
+    {
+     "name": "CLA Language Ctr",
+     "size": 764034.6199999999
+    },
+    {
+     "name": "CLA Sociology",
+     "size": 4881450.917999999
+    },
+    {
+     "name": "CLA History",
+     "size": 5551094.869999994
+    },
+    {
+     "name": "CLA Global Studies Institute",
+     "size": 1055673.1050000002
+    },
+    {
+     "name": "CLA African Amer & Afr Studies",
+     "size": 1049697.4100000001
+    },
+    {
+     "name": "CLA Economics",
+     "size": 7520384.889999985
+    },
+    {
+     "name": "CLA Journalism & Mass Comm",
+     "size": 3579284.479999999
+    }
+   ],
+   "name": "LIBERAL ARTS, COLLEGE OF"
+  },
+  {
+   "children": [
+    {
+     "name": "Stu Affairs, Advocacy/Support",
+     "size": 449910.4
+    },
+    {
+     "name": "Bolstad Golf Course",
+     "size": 289328.6
+    },
+    {
+     "name": "University Student Legal Svc",
+     "size": 701425.9999999999
+    },
+    {
+     "name": "Student Unions & Activities",
+     "size": 3135089.200000001
+    },
+    {
+     "name": "Student Affairs, Student Life",
+     "size": 1482277.6099999999
+    },
+    {
+     "name": "Univ Recreation & Wellness",
+     "size": 2713630.1999999993
+    },
+    {
+     "name": "Student Conflict Resolution",
+     "size": 147018.0
+    },
+    {
+     "name": "Student Affairs, ViceProv/Dean",
+     "size": 1665470.2000000002
+    },
+    {
+     "name": "Stu Affairs Admin, V Prov/Dean",
+     "size": 910797.4
+    }
+   ],
+   "name": "STUDENT AFFAIRS, VICE PROVOST"
+  },
+  {
+   "children": [
+    {
+     "name": "AUXSV U Card Office",
+     "size": 293813.0
+    },
+    {
+     "name": "AUXSV Contract Administration",
+     "size": 264744.74
+    },
+    {
+     "name": "AUXSV Printing & General Svcs",
+     "size": 2432410.7799999993
+    },
+    {
+     "name": "AUXSV Bookstores - Rochester",
+     "size": 75691.2
+    },
+    {
+     "name": "AUXSV Bookstores",
+     "size": 3065826.659999998
+    },
+    {
+     "name": "AUXSV Dining Services & Admin",
+     "size": 7924640.359999993
+    },
+    {
+     "name": "AUXSV Administration",
+     "size": 1616664.04
+    },
+    {
+     "name": "AUXSV Parking & Transportation",
+     "size": 2851929.108000001
+    },
+    {
+     "name": "AUXSV U Market",
+     "size": 2735233.860000001
+    },
+    {
+     "name": "AUXSV Fleet Services",
+     "size": 605715.3200000001
+    },
+    {
+     "name": "AUXSV Housing & Resident Life",
+     "size": 6704449.569999999
+    },
+    {
+     "name": "AUXSV Bookstores - Crookston",
+     "size": 80350.4
+    },
+    {
+     "name": "AUXSV Bookstores - Morris",
+     "size": 108711.20000000001
+    }
+   ],
+   "name": "AUXILIARY SERVICES"
+  },
+  {
+   "children": [
+    {
+     "name": "CFANS MN AgEd Ldershp Council",
+     "size": 154915.40000000002
+    },
+    {
+     "name": "CFANS Hlthy Foods, Hlthy Lives",
+     "size": 289460.92
+    },
+    {
+     "name": "CFANS Cloquet Forestry Center",
+     "size": 371947.27999999997
+    },
+    {
+     "name": "CFANS Food Sci & Nutrition",
+     "size": 4775024.126
+    },
+    {
+     "name": "CFANS Landscape Arboretum",
+     "size": 6516080.660000004
+    },
+    {
+     "name": "CFANS MN Terrest Inv Plant/Pst",
+     "size": 88956.0
+    },
+    {
+     "name": "CFANS Water Resources Center",
+     "size": 863771.3200000001
+    },
+    {
+     "name": "CFANS No Central ROC Grand Rap",
+     "size": 1193824.3199999998
+    },
+    {
+     "name": "CFANS Entomology",
+     "size": 4102720.6500000022
+    },
+    {
+     "name": "CFANS Forest Resources",
+     "size": 4446292.850000003
+    },
+    {
+     "name": "CFANS Agricultural Education",
+     "size": 596172.3999999999
+    },
+    {
+     "name": "CFANS Soil, Water & Climate",
+     "size": 4645217.550000003
+    },
+    {
+     "name": "CFANS Fish Wildlife & Cons Bio",
+     "size": 3757444.55
+    },
+    {
+     "name": "CFANS Bell Museum of Nat Hist",
+     "size": 1319807.1500000001
+    },
+    {
+     "name": "CFANS Southern ROC Waseca",
+     "size": 2257886.5999999996
+    },
+    {
+     "name": "CFANS Bioproducts & Biosys Eng",
+     "size": 6017483.735999993
+    },
+    {
+     "name": "CFANS Rosemount ROC",
+     "size": 628173.2
+    },
+    {
+     "name": "CFANS Horticultural Science",
+     "size": 4282581.295000005
+    },
+    {
+     "name": "CFANS Animal Science",
+     "size": 3826040.7700000005
+    },
+    {
+     "name": "CFANS Agronomy/Plant Genetics",
+     "size": 6920539.315000008
+    },
+    {
+     "name": "CFANS Plant Pathology",
+     "size": 4108630.2300000004
+    },
+    {
+     "name": "CFANS Northwest ROC Crookston",
+     "size": 1353697.8499999999
+    },
+    {
+     "name": "CFANS Applied Economics",
+     "size": 6330324.6499999985
+    },
+    {
+     "name": "CFANS Administration",
+     "size": 7506877.839999997
+    },
+    {
+     "name": "CFANS Southwest ROC Lamberton",
+     "size": 845109.856
+    },
+    {
+     "name": "CFANS West Central ROC Morris",
+     "size": 1857615.388
+    }
+   ],
+   "name": "FOOD, AGRI/NAT RSRC SCI, COLL"
+  },
+  {
+   "children": [
+    {
+     "name": "Employee Benefits",
+     "size": 76180.0
+    },
+    {
+     "name": "OHR Operations",
+     "size": 2490477.0
+    },
+    {
+     "name": "Talent Acquisition",
+     "size": 855369.425
+    },
+    {
+     "name": "Employee Relations",
+     "size": 907303.0
+    },
+    {
+     "name": "Leadership & Talent Devel",
+     "size": 1448554.8
+    },
+    {
+     "name": "Total Compensation",
+     "size": 1943297.1
+    },
+    {
+     "name": "OHR Administration",
+     "size": 1573022.4000000004
+    }
+   ],
+   "name": "HUMAN RESOURCES, OFFICE OF"
+  },
+  {
+   "children": [
+    {
+     "name": "CBS Itasca Biological Station",
+     "size": 432975.95999999996
+    },
+    {
+     "name": "CBS Biotechnology Institute",
+     "size": 4550737.139000001
+    },
+    {
+     "name": "CBS Biology Teaching/Learning",
+     "size": 3045206.8350000004
+    },
+    {
+     "name": "CBS Genetics, Cell Bio, Dev",
+     "size": 5827613.350000007
+    },
+    {
+     "name": "CBS Biochemistry",
+     "size": 6272341.283000006
+    },
+    {
+     "name": "CBS Plant Biology",
+     "size": 60496.8
+    },
+    {
+     "name": "CBS Administration",
+     "size": 3262842.973
+    },
+    {
+     "name": "CBS Cedar Creek",
+     "size": 432720.52999999997
+    },
+    {
+     "name": "CBS Plant/Microbial Biology",
+     "size": 4357164.013
+    },
+    {
+     "name": "CBS Ecology, Evolution & Behav",
+     "size": 5007303.07
+    }
+   ],
+   "name": "BIOLOGICAL SCIENCES, COLL OF"
+  },
+  {
+   "children": [
+    {
+     "name": "HLSCI Research Units",
+     "size": 278551.31
+    },
+    {
+     "name": "HLSCI Education Units",
+     "size": 1779179.67
+    },
+    {
+     "name": "HLSCI Facilities Units",
+     "size": 1106581.05
+    },
+    {
+     "name": "HLSCI Health Sciences SrVP",
+     "size": 9781564.891
+    }
+   ],
+   "name": "HEALTH SCIENCES ADMINISTRATION"
+  },
+  {
+   "children": [
+    {
+     "name": "CSENG Mat Rsrch Sci & Eng Ctr",
+     "size": 382859.2
+    },
+    {
+     "name": "CSENG Charles Babbage Inst",
+     "size": 271657.2
+    },
+    {
+     "name": "CSENG MN Geological Survey",
+     "size": 2116635.56
+    },
+    {
+     "name": "CSENG Digital Technology Ctr",
+     "size": 471413.34
+    },
+    {
+     "name": "CSENG Biomedical Engineering",
+     "size": 5612111.45
+    },
+    {
+     "name": "CSENG Aerospace Eng & Mechanic",
+     "size": 5451874.033
+    },
+    {
+     "name": "CSENG Mechanical Engineering",
+     "size": 11920288.207999997
+    },
+    {
+     "name": "CSENG Medical Devices Center",
+     "size": 1007375.16
+    },
+    {
+     "name": "CSENG Math Ctr for Educ Prog",
+     "size": 289459.776
+    },
+    {
+     "name": "CSENG St. Anthony Falls Lab",
+     "size": 2582732.7399999998
+    },
+    {
+     "name": "CSENG MN Nano Center",
+     "size": 1183087.194
+    },
+    {
+     "name": "CSENG Collegiate Shops",
+     "size": 499990.4
+    },
+    {
+     "name": "CSENG Industrial&Systems Eng",
+     "size": 2186495.6
+    },
+    {
+     "name": "CSENG Math & Its Applications",
+     "size": 1009932.2399999999
+    },
+    {
+     "name": "CSENG Characterization Facil",
+     "size": 925917.6
+    },
+    {
+     "name": "CSENG Civil, Envrn & Geo- Eng",
+     "size": 6056321.652000006
+    },
+    {
+     "name": "CSENG UNITE",
+     "size": 468244.87999999995
+    },
+    {
+     "name": "CSENG Physics & Astronomy",
+     "size": 14671941.529
+    },
+    {
+     "name": "CSENG Chemistry",
+     "size": 16585520.558000071
+    },
+    {
+     "name": "CSENG Earth Sciences, Dept of",
+     "size": 6564632.3780000005
+    },
+    {
+     "name": "CSENG Administration",
+     "size": 7384363.970000002
+    },
+    {
+     "name": "CSENG Computer Science & Eng",
+     "size": 13064301.570000092
+    },
+    {
+     "name": "CSENG Tech Leadership Inst",
+     "size": 1707804.59
+    },
+    {
+     "name": "CSENG Electrical & Computr Eng",
+     "size": 12966011.510999994
+    },
+    {
+     "name": "CSENG Chemical Eng & Mat Sci",
+     "size": 13674424.657999998
+    },
+    {
+     "name": "CSENG IPRIME",
+     "size": 181540.6
+    },
+    {
+     "name": "CSENG Mathematics, School of",
+     "size": 12940482.657999985
+    },
+    {
+     "name": "CSENG History of Sci & Tech",
+     "size": 885415.6399999999
+    },
+    {
+     "name": "CSENG Astrophysics, MN Inst",
+     "size": 1627120.07
+    }
+   ],
+   "name": "SCIENCE/ENGINEERING, COL OF"
+  },
+  {
+   "children": [
+    {
+     "name": "Minitex",
+     "size": 3317902.059
+    },
+    {
+     "name": "Health Sciences Libraries",
+     "size": 1309933.7800000003
+    },
+    {
+     "name": "Libraries Content/Collections",
+     "size": 2164870.6400000006
+    },
+    {
+     "name": "Libraries Research + Learning",
+     "size": 6702716.207
+    },
+    {
+     "name": "Libraries Administrative Svcs",
+     "size": 2471379.6480000005
+    },
+    {
+     "name": "Libraries Data + Technology",
+     "size": 3524544.07
+    }
+   ],
+   "name": "LIBRARIES, UNIVERSITY"
+  },
+  {
+   "children": [
+    {
+     "name": "Cognitive Sciences, Center for",
+     "size": 73986.8
+    },
+    {
+     "name": "Acad Aff & Provost, Sr VP Ofc",
+     "size": 7387706.650000001
+    },
+    {
+     "name": "University Ticketing Services",
+     "size": 568716.0
+    },
+    {
+     "name": "Advanced Study, Inst for",
+     "size": 530865.14
+    },
+    {
+     "name": "Urban & Regional Affairs, Ctr",
+     "size": 1151269.8639999998
+    },
+    {
+     "name": "Northrop Concerts & Lectures",
+     "size": 1172790.0
+    },
+    {
+     "name": "Weisman Art Museum",
+     "size": 1238633.8
+    }
+   ],
+   "name": "ACAD AFFAIRS/PROVOST, SR VP"
+  },
+  {
+   "children": [
+    {
+     "name": "RSRCH Tech Commercialization",
+     "size": 3411081.1789999995
+    },
+    {
+     "name": "RSRCH Law & Values, Consortium",
+     "size": 207813.356
+    },
+    {
+     "name": "RSRCH U of MN Informatics Inst",
+     "size": 475317.66099999996
+    },
+    {
+     "name": "RSRCH Transportation Studies",
+     "size": 1710235.47
+    },
+    {
+     "name": "RSRCH U of Minnesota Press",
+     "size": 1827864.8000000003
+    },
+    {
+     "name": "RSRCH Hormel Institute",
+     "size": 5597433.358000001
+    },
+    {
+     "name": "Sponsored Projects Admin",
+     "size": 3351346.2759999996
+    },
+    {
+     "name": "RSRCH Environment, Inst on the",
+     "size": 3646677.896
+    },
+    {
+     "name": "RSRCH MN Population Center",
+     "size": 5835017.180000001
+    },
+    {
+     "name": "RSRCH VP for Research",
+     "size": 7475695.89
+    },
+    {
+     "name": "RSRCH MN Supercomputing Inst",
+     "size": 3458964.5800000005
+    }
+   ],
+   "name": "RESEARCH, OFFICE OF VP FOR"
+  },
+  {
+   "children": [
+    {
+     "name": "CCE Radio K",
+     "size": 194064.0
+    },
+    {
+     "name": "CCE Information Technology",
+     "size": 423278.6
+    },
+    {
+     "name": "CCE DCP Graduate Programs",
+     "size": 908020.8
+    },
+    {
+     "name": "CCE DCP Undergraduate Programs",
+     "size": 1554112.1000000003
+    },
+    {
+     "name": "CCE Marketing",
+     "size": 984111.36
+    },
+    {
+     "name": "CCE Online & Distance Learning",
+     "size": 187909.80000000002
+    },
+    {
+     "name": "CCE PDL - LearningLife",
+     "size": 177743.2
+    },
+    {
+     "name": "CCE Financial Mgmt/Payroll Svc",
+     "size": 581359.2
+    },
+    {
+     "name": "CCE Osher Lifelong Lrning Inst",
+     "size": 178408.39999999997
+    },
+    {
+     "name": "CCE Non-Admitted Stu/Smr Sess",
+     "size": 38013.0
+    },
+    {
+     "name": "CCE Administration",
+     "size": 472427.2
+    },
+    {
+     "name": "CCE Information Center",
+     "size": 278532.80000000005
+    },
+    {
+     "name": "CCE Degree & Credit Programs",
+     "size": 1355483.04
+    },
+    {
+     "name": "CCE PDL - Professional Develop",
+     "size": 1419071.2000000002
+    },
+    {
+     "name": "CCE English Language Programs",
+     "size": 821072.7100000001
+    }
+   ],
+   "name": "CONTINUING EDUCATION, COLL OF"
+  },
+  {
+   "children": [
+    {
+     "name": "NURSG Admin & Support",
+     "size": 3651091.0
+    },
+    {
+     "name": "NURSG Academic Programs",
+     "size": 8935860.691999996
+    },
+    {
+     "name": "NURSG Co-ops & Centers",
+     "size": 948549.0999999999
+    }
+   ],
+   "name": "NURSING, SCHOOL OF"
+  },
+  {
+   "children": [
+    {
+     "name": "Orientation & 1st Yr Programs",
+     "size": 502248.80000000005
+    },
+    {
+     "name": "McNamara Academic Center",
+     "size": 877290.4
+    },
+    {
+     "name": "Undergrad Research Opp Program",
+     "size": 129038.0
+    },
+    {
+     "name": "Ugrad Educ, Vice Provost/Dean",
+     "size": 2218729.4000000004
+    },
+    {
+     "name": "University Honors Program",
+     "size": 1073537.0
+    },
+    {
+     "name": "ROTC",
+     "size": 249600.00000000003
+    },
+    {
+     "name": "Academic Support Resources",
+     "size": 14946426.109999994
+    },
+    {
+     "name": "Admissions, Office of",
+     "size": 4009815.8500000006
+    }
+   ],
+   "name": "UNDERGRADUATE EDUCATION"
+  },
+  {
+   "children": [
+    {
+     "name": "MNEXT Field Operations",
+     "size": 3450899.36
+    },
+    {
+     "name": "MNEXT Community Vitality",
+     "size": 2568199.4
+    },
+    {
+     "name": "MNEXT Ag, Food & Natural Rsrc",
+     "size": 5253796.34
+    },
+    {
+     "name": "MNEXT Youth Development",
+     "size": 7919968.019999999
+    },
+    {
+     "name": "MNEXT Family Development",
+     "size": 7044965.554999996
+    },
+    {
+     "name": "MNEXT RSDP Regional Partnrshps",
+     "size": 1242305.6
+    },
+    {
+     "name": "MNEXT Administration",
+     "size": 3880036.02
+    }
+   ],
+   "name": "EXTENSION, U OF MN"
+  },
+  {
+   "children": [
+    {
+     "name": "CSOM Marketing",
+     "size": 4404823.4799999995
+    },
+    {
+     "name": "CSOM MBA Programs",
+     "size": 2686697.1799999992
+    },
+    {
+     "name": "CSOM Interdisiplinary Centers",
+     "size": 138665.33000000002
+    },
+    {
+     "name": "CSOM Supply Chain & Operations",
+     "size": 2903946.4699999997
+    },
+    {
+     "name": "CSOM Administration",
+     "size": 2215912.76
+    },
+    {
+     "name": "CSOM Institutional Advancement",
+     "size": 1684188.98
+    },
+    {
+     "name": "CSOM Finance",
+     "size": 4432592.215000001
+    },
+    {
+     "name": "CSOM Undergraduate Program",
+     "size": 2157492.557
+    },
+    {
+     "name": "CSOM Operations",
+     "size": 2443242.869999999
+    },
+    {
+     "name": "CSOM Executive Education",
+     "size": 1179342.12
+    },
+    {
+     "name": "CSOM Information/Decision Sci",
+     "size": 3896943.6099999994
+    },
+    {
+     "name": "CSOM Strategic Mgmt & Entrepre",
+     "size": 4673518.579
+    },
+    {
+     "name": "CSOM PhD Programs",
+     "size": 217730.84
+    },
+    {
+     "name": "CSOM Global Institute",
+     "size": 1103465.9
+    },
+    {
+     "name": "CSOM Accounting",
+     "size": 4593084.234999999
+    },
+    {
+     "name": "CSOM Human Rsrc/Labor Studies",
+     "size": 3662507.6049999995
+    }
+   ],
+   "name": "MGMT, CURTIS L CARLSON SCH OF"
+  },
+  {
+   "children": [
+    {
+     "name": "UHLSF Building Codes",
+     "size": 1270324.04
+    },
+    {
+     "name": "UHLSF Emergency Management",
+     "size": 361435.88
+    },
+    {
+     "name": "UHLSF U Health & Safety",
+     "size": 3891258.309000001
+    }
+   ],
+   "name": "UNIVERSITY HEALTH AND SAFETY"
+  },
+  {
+   "children": [
+    {
+     "name": "DENT Clncl Admin/Patient Care",
+     "size": 3992635.1199999973
+    },
+    {
+     "name": "DENT Restorative Sciences",
+     "size": 4358537.203000001
+    },
+    {
+     "name": "Dent Continuing Education",
+     "size": 464535.63
+    },
+    {
+     "name": "Dent Research Management",
+     "size": 230520.17
+    },
+    {
+     "name": "DENT Faculty Practice",
+     "size": 350433.2
+    },
+    {
+     "name": "DENT Administration",
+     "size": 2383447.54
+    },
+    {
+     "name": "DENT Primary Care",
+     "size": 5644432.731999997
+    },
+    {
+     "name": "Dent Academic & Student Affair",
+     "size": 611498.366
+    },
+    {
+     "name": "DENT Dev & Surgical Science",
+     "size": 7806074.703999998
+    },
+    {
+     "name": "DENT Diagnostic & Bio Science",
+     "size": 5562067.526999999
+    }
+   ],
+   "name": "DENTISTRY, SCHOOL OF"
+  },
+  {
+   "children": [
+    {
+     "name": "UMM Enrollment Management",
+     "size": 928533.68
+    },
+    {
+     "name": "UMM Administration",
+     "size": 878944.4
+    }
+   ],
+   "name": "UMM-CHANCELLOR'S OFC"
+  },
+  {
+   "children": [
+    {
+     "name": "UMM Education Division",
+     "size": 511055.2
+    }
+   ],
+   "name": "UMM-ELEM & SCNDRY EDUC, DIV OF"
+  },
+  {
+   "children": [
+    {
+     "name": "DESIGN Research & Outreach",
+     "size": 810210.5
+    },
+    {
+     "name": "DESGN Administration",
+     "size": 1349260.2249999999
+    },
+    {
+     "name": "DESGN External Relations",
+     "size": 681058.0
+    },
+    {
+     "name": "DESGN Metropolitan Design",
+     "size": 390522.67
+    },
+    {
+     "name": "DESGN Landscape Architecture",
+     "size": 984311.45
+    },
+    {
+     "name": "DESGN Goldstein Museum",
+     "size": 236850.90399999998
+    },
+    {
+     "name": "DESGN Architecture, School of",
+     "size": 2306577.0
+    },
+    {
+     "name": "DESIGN Intrdiscp Instruction",
+     "size": 171764.75
+    },
+    {
+     "name": "DESGN Academic Resources",
+     "size": 301845.4
+    },
+    {
+     "name": "DESGN Design, Housing & Appare",
+     "size": 3244125.8300000015
+    },
+    {
+     "name": "DESIGN Student Services",
+     "size": 730709.46
+    }
+   ],
+   "name": "DESIGN, COLLEGE OF"
+  },
+  {
+   "children": [
+    {
+     "name": "FM Central Services",
+     "size": 12679120.340000011
+    },
+    {
+     "name": "FM District Operations",
+     "size": 1245941.28
+    },
+    {
+     "name": "FM Administration",
+     "size": 1698327.1220000002
+    },
+    {
+     "name": "FM West Bank District",
+     "size": 4670218.019999998
+    },
+    {
+     "name": "FM St Paul District",
+     "size": 6913753.599999993
+    },
+    {
+     "name": "FM Health Sciences District",
+     "size": 9834988.280000003
+    },
+    {
+     "name": "FM Utilities Engineering",
+     "size": 9827933.246999998
+    },
+    {
+     "name": "FM East Bank District",
+     "size": 7538671.999999993
+    },
+    {
+     "name": "FM North Campus District",
+     "size": 5980254.279999996
+    }
+   ],
+   "name": "FACILITIES MANAGEMENT"
+  },
+  {
+   "children": [
+    {
+     "name": "CEHD Curriculum & Instruction",
+     "size": 5948579.890999994
+    },
+    {
+     "name": "CEHD UM Child Development Ctr",
+     "size": 1311528.92
+    },
+    {
+     "name": "CEHD Educational Psychology",
+     "size": 6135204.910000007
+    },
+    {
+     "name": "CEHD Family Social Science",
+     "size": 3898342.097000003
+    },
+    {
+     "name": "CEHD Student Services",
+     "size": 2256330.664000001
+    },
+    {
+     "name": "CEHD Administration",
+     "size": 10012518.495
+    },
+    {
+     "name": "CEHD Child Development, Inst",
+     "size": 5291897.269000004
+    },
+    {
+     "name": "CEHD Social Work, School of",
+     "size": 4858298.552
+    },
+    {
+     "name": "CEHD Centers",
+     "size": 2847607.1690000007
+    },
+    {
+     "name": "CEHD Kinesiology",
+     "size": 3703560.095000006
+    },
+    {
+     "name": "CEHD Community Integration",
+     "size": 5227341.586000003
+    },
+    {
+     "name": "CEHD Org Leadership,Policy/Dev",
+     "size": 4537223.028000005
+    }
+   ],
+   "name": "EDUCATION & HUMAN DEVEL, COLL"
+  },
+  {
+   "children": [
+    {
+     "name": "CPPM Administration",
+     "size": 971360.1400000001
+    },
+    {
+     "name": "CPPM Projects",
+     "size": 2173987.1799999997
+    }
+   ],
+   "name": "CAPITAL PLANNING/PROJECT MGMT"
+  },
+  {
+   "children": [
+    {
+     "name": "UMC Math, Science, Technology",
+     "size": 1458062.638
+    },
+    {
+     "name": "UMC Business Department",
+     "size": 1514523.8
+    },
+    {
+     "name": "UMC Liberal Arts and Education",
+     "size": 1568876.2640000002
+    },
+    {
+     "name": "UMC Ag and Natural Resources",
+     "size": 1860022.145
+    },
+    {
+     "name": "UMC Academic Affairs",
+     "size": 797527.5
+    }
+   ],
+   "name": "UMC ACADEMIC AFFAIRS"
+  },
+  {
+   "children": [
+    {
+     "name": "UMD Liberal Arts, College of",
+     "size": 9964698.23
+    }
+   ],
+   "name": "UMD LIBERAL ARTS, COLLEGE OF"
+  },
+  {
+   "children": [
+    {
+     "name": "UMD Facilities Management",
+     "size": 8469672.889999999
+    }
+   ],
+   "name": "UMD FACILITIES MANAGEMENT"
+  },
+  {
+   "children": [
+    {
+     "name": "PHARM Pharmaceutics",
+     "size": 2185310.0500000003
+    },
+    {
+     "name": "PHARM Pharm Prac Pharm Sci",
+     "size": 3903319.8000000003
+    },
+    {
+     "name": "PHARM Medicinal Chemistry",
+     "size": 7434514.651000006
+    },
+    {
+     "name": "PHARM Experimental&Clin Pharm",
+     "size": 4304455.766
+    },
+    {
+     "name": "PHARM Administration",
+     "size": 4750314.91
+    },
+    {
+     "name": "PHARM Pharm Care & Hlth Syst",
+     "size": 3723796.3949999996
+    },
+    {
+     "name": "PHARM Professional Education",
+     "size": 2602708.7600000002
+    }
+   ],
+   "name": "PHARMACY, COLLEGE OF"
+  },
+  {
+   "children": [
+    {
+     "name": "UMM Intercollegiate Athletics",
+     "size": 1002216.9
+    },
+    {
+     "name": "UMM Auxiliary Services",
+     "size": 563342.3999999999
+    },
+    {
+     "name": "UMM Student Affairs",
+     "size": 1620437.1500000001
+    }
+   ],
+   "name": "UMM-STUDENT AFFAIRS"
+  },
+  {
+   "children": [
+    {
+     "name": "DRC U Return Svcs,DisabRrscCtr",
+     "size": 799162.0
+    },
+    {
+     "name": "Equity & Diversity, VP for",
+     "size": 3394385.0500000003
+    },
+    {
+     "name": "Disability Resource Ctr,Eq/Div",
+     "size": 3484483.1000000015
+    }
+   ],
+   "name": "EQUITY AND DIVERSITY"
+  },
+  {
+   "children": [
+    {
+     "name": "UFIN University Finance",
+     "size": 3429169.4850000003
+    },
+    {
+     "name": "UFIN SVP Finance & Operations",
+     "size": 660012.8
+    },
+    {
+     "name": "UFIN Institutional Analysis",
+     "size": 3051716.100000001
+    }
+   ],
+   "name": "UNIVERSITY FINANCE"
+  },
+  {
+   "children": [
+    {
+     "name": "UMD Dining Services",
+     "size": 2540712.7199999997
+    },
+    {
+     "name": "UMD Auxiliary Services",
+     "size": 2608734.3359999997
+    }
+   ],
+   "name": "UMD AUXILIARY SERVICES"
+  },
+  {
+   "children": [
+    {
+     "name": "Public Safety",
+     "size": 5863525.420000003
+    }
+   ],
+   "name": "PUBLIC SAFETY"
+  },
+  {
+   "children": [
+    {
+     "name": "HHH Politics & Governance",
+     "size": 552443.27
+    },
+    {
+     "name": "HHH Sci, Tech & Environ Pol",
+     "size": 1137989.907
+    },
+    {
+     "name": "HHH Urban & Regional Planning",
+     "size": 1403909.4810000001
+    },
+    {
+     "name": "HHH Global Policy",
+     "size": 1302776.33
+    },
+    {
+     "name": "HHH Administration",
+     "size": 3225871.22
+    },
+    {
+     "name": "HHH Soc Policy/Pol Analysis",
+     "size": 1539682.175
+    },
+    {
+     "name": "HHH Leadership & Management",
+     "size": 1938580.775
+    }
+   ],
+   "name": "HUMPHREY SCH OF PUBLIC AFFAIRS"
+  },
+  {
+   "children": [
+    {
+     "name": "UMR Administration",
+     "size": 2755919.0
+    },
+    {
+     "name": "UMR Academic Programs",
+     "size": 2804368.8
+    }
+   ],
+   "name": "UMR CHANCELLOR'S OFC"
+  },
+  {
+   "children": [
+    {
+     "name": "UMM External Relations",
+     "size": 745358.7999999999
+    }
+   ],
+   "name": "UMM-EXTERNAL RELATIONS"
+  },
+  {
+   "children": [
+    {
+     "name": "UMM Science & Math Division",
+     "size": 2933629.1130000004
+    }
+   ],
+   "name": "UMM-SCIENCE & MATH, DIV OF"
+  },
+  {
+   "children": [
+    {
+     "name": "UREL U Relations Office",
+     "size": 3061590.0100000002
+    },
+    {
+     "name": "University of MN Foundation",
+     "size": 18408341.413999993
+    },
+    {
+     "name": "U of M Alumni Association",
+     "size": 2057296.5300000003
+    }
+   ],
+   "name": "UNIVERSITY RELATIONS, OFC OF"
+  },
+  {
+   "children": [
+    {
+     "name": "UMD Enrollment Services",
+     "size": 2676520.0300000007
+    },
+    {
+     "name": "UMD Academic Affairs Exec VC",
+     "size": 313500.0
+    },
+    {
+     "name": "UMD Academic Affairs Admin",
+     "size": 3971698.309999999
+    }
+   ],
+   "name": "UMD ACADEMIC AFFAIRS"
+  },
+  {
+   "children": [
+    {
+     "name": "UMD Police Department",
+     "size": 922188.8000000002
+    },
+    {
+     "name": "UMD Finance & Operations",
+     "size": 1430932.4900000002
+    }
+   ],
+   "name": "UMD FINANCE & OPERATIONS"
+  },
+  {
+   "children": [
+    {
+     "name": "GPS Global Programs & Strategy",
+     "size": 7768615.369000002
+    }
+   ],
+   "name": "GLOBAL PRGMS/STRATEGY ALLIANCE"
+  },
+  {
+   "children": [
+    {
+     "name": "VETMD Raptor Center",
+     "size": 786911.1199999999
+    },
+    {
+     "name": "VETMD Vet Population Med",
+     "size": 11729415.737
+    },
+    {
+     "name": "VETMD Administration",
+     "size": 3390092.35
+    },
+    {
+     "name": "VETMD Veterinary Medical Ctr",
+     "size": 8594350.194999993
+    },
+    {
+     "name": "VETMD Vet Clinical Sciences",
+     "size": 9805967.362
+    },
+    {
+     "name": "VETMD Animal Health Food Sfty",
+     "size": 506149.8
+    },
+    {
+     "name": "VETMD Vet Biomedical Science",
+     "size": 6818317.190000001
+    },
+    {
+     "name": "VETMD Vet Diagnostic Lab",
+     "size": 4576162.039999998
+    }
+   ],
+   "name": "VETERINARY MEDICINE, COLL OF"
+  },
+  {
+   "children": [
+    {
+     "name": "OGC General Counsel",
+     "size": 4096760.7000000007
+    }
+   ],
+   "name": "GENERAL COUNSEL, OFFICE OF THE"
+  },
+  {
+   "children": [
+    {
+     "name": "RGNTS Board of Regents",
+     "size": 570818.15
+    }
+   ],
+   "name": "BOARD OF REGENTS, OFFICE OF"
+  },
+  {
+   "children": [
+    {
+     "name": "PUBHL Epi & Comm Hlth",
+     "size": 15294493.853999993
+    },
+    {
+     "name": "PUBHL Environmental Hlth Sci",
+     "size": 4900642.647000001
+    },
+    {
+     "name": "PUBHL Health Policy Mgmt",
+     "size": 11391410.560000014
+    },
+    {
+     "name": "PUBHL Biostatistics Division",
+     "size": 8734553.239
+    },
+    {
+     "name": "PUBHL Administration",
+     "size": 4118536.29
+    }
+   ],
+   "name": "PUBLIC HEALTH, SCHOOL OF"
+  },
+  {
+   "children": [
+    {
+     "name": "Graduate School, The",
+     "size": 1684400.204
+    }
+   ],
+   "name": "GRADUATE SCHOOL, THE"
+  },
+  {
+   "children": [
+    {
+     "name": "President, Office of the",
+     "size": 2706048.08
+    }
+   ],
+   "name": "PRESIDENT, OFFICE OF THE"
+  },
+  {
+   "children": [
+    {
+     "name": "OIT End User Support Services",
+     "size": 9948491.28
+    },
+    {
+     "name": "OIT Infrastructure &Production",
+     "size": 8534880.019999998
+    },
+    {
+     "name": "OIT Application Development",
+     "size": 10377655.339999996
+    },
+    {
+     "name": "OIT Administration",
+     "size": 2972364.7640000014
+    },
+    {
+     "name": "OIT Business Office",
+     "size": 1342839.42
+    },
+    {
+     "name": "OIT Academic Technology",
+     "size": 1764365.7199999997
+    }
+   ],
+   "name": "INFORMATION TECHNOLOGY"
+  },
+  {
+   "children": [
+    {
+     "name": "UMC Facilities Management",
+     "size": 1173141.4
+    },
+    {
+     "name": "UMC Administration",
+     "size": 2051315.6
+    },
+    {
+     "name": "UMC Intercollegiate Athletics",
+     "size": 1404690.3959999997
+    }
+   ],
+   "name": "UMC CHANCELLOR'S OFFICE"
+  },
+  {
+   "children": [
+    {
+     "name": "UMC Auxiliary Services",
+     "size": 1034439.2
+    },
+    {
+     "name": "UMC Student Affairs",
+     "size": 1730794.4800000002
+    }
+   ],
+   "name": "UMC STU AFFAIR/ENROLLMENT MGMT"
+  },
+  {
+   "children": [
+    {
+     "name": "USERV University Svcs Admin",
+     "size": 3657334.31
+    }
+   ],
+   "name": "UNIVERSITY SERVICES"
+  },
+  {
+   "children": [
+    {
+     "name": "Law School Library",
+     "size": 1532710.4000000001
+    },
+    {
+     "name": "Law School Administration",
+     "size": 3394904.04
+    },
+    {
+     "name": "Law School Academic Programs",
+     "size": 11824690.803000001
+    }
+   ],
+   "name": "LAW SCHOOL"
+  },
+  {
+   "children": [
+    {
+     "name": "UMM Humanities Division",
+     "size": 3182834.91
+    }
+   ],
+   "name": "UMM-HUMANITIES, DIV OF"
+  },
+  {
+   "children": [
+    {
+     "name": "UMM Academic Affairs",
+     "size": 2138826.8
+    }
+   ],
+   "name": "UMM-ACADEMIC AFFAIRS"
+  },
+  {
+   "children": [
+    {
+     "name": "AES Administration",
+     "size": 926357.44
+    }
+   ],
+   "name": "AGRICULTURE EXPERIMENT STATION"
+  },
+  {
+   "children": [
+    {
+     "name": "UMM Social Science Division",
+     "size": 2599504.91
+    }
+   ],
+   "name": "UMM-SOCIAL SCIENCES, DIV OF"
+  },
+  {
+   "children": [
+    {
+     "name": "UMD Chancellor's Office",
+     "size": 2651188.6489999993
+    },
+    {
+     "name": "UMD Human Resources/Equal Opp",
+     "size": 631905.03
+    }
+   ],
+   "name": "UMD CHANCELLOR'S OFFICE"
+  },
+  {
+   "children": [
+    {
+     "name": "Internal Audit, Office of",
+     "size": 1468196.7800000003
+    }
+   ],
+   "name": "INTERNAL AUDIT, OFFICE OF"
+  },
+  {
+   "children": [
+    {
+     "name": "UMD Swenson Col of Sci & Eng",
+     "size": 21864380.15400009
+    }
+   ],
+   "name": "UMD SCI & ENG, SWENSON COLLEGE"
+  },
+  {
+   "children": [
+    {
+     "name": "UMM Finance & Ops (Compass)",
+     "size": 618553.5199999999
+    },
+    {
+     "name": "UMM Facilities Management",
+     "size": 2161124.2
+    },
+    {
+     "name": "UMM Finance & Operations",
+     "size": 1389944.1
+    }
+   ],
+   "name": "UMM-FINANCE/OPERATIONS"
+  },
+  {
+   "children": [
+    {
+     "name": "Boynton Health Service",
+     "size": 18545138.518000003
+    }
+   ],
+   "name": "BOYNTON HEALTH SERVICE"
+  },
+  {
+   "children": [
+    {
+     "name": "Intercollegiate Athletics",
+     "size": 23427021.676999986
+    }
+   ],
+   "name": "INTERCOLLEGIATE ATHLETICS"
+  },
+  {
+   "children": [
+    {
+     "name": "UMD Info Tech Systems & Svcs",
+     "size": 2893280.3900000006
+    }
+   ],
+   "name": "UMD INFORMATION SERVICES"
+  },
+  {
+   "children": [
+    {
+     "name": "UMD Natural Rsrc Rsrch Inst",
+     "size": 8017372.94
+    }
+   ],
+   "name": "UMD NAT RESOURCES RSRCH INST"
+  },
+  {
+   "children": [
+    {
+     "name": "CONTR Controller's Office",
+     "size": 9534359.069999997
+    }
+   ],
+   "name": "CONTROLLER'S OFFICE"
+  },
+  {
+   "children": [
+    {
+     "name": "UMD Student Life",
+     "size": 4539444.015000001
+    }
+   ],
+   "name": "UMD STUDENT LIFE"
+  },
+  {
+   "children": [
+    {
+     "name": "UMD Athletics",
+     "size": 3080328.5320000006
+    }
+   ],
+   "name": "UMD INTERCOLLEGIATE ATHLETICS"
+  },
+  {
+   "children": [
+    {
+     "name": "UMD Library",
+     "size": 1446846.39
+    }
+   ],
+   "name": "UMD LIBRARY"
+  },
+  {
+   "children": [
+    {
+     "name": "Medical School, Duluth Campus",
+     "size": 9025296.575000001
+    }
+   ],
+   "name": "MEDICAL SCHOOL - DULUTH CAMPUS"
+  },
+  {
+   "children": [
+    {
+     "name": "UMD Fine Arts, School of",
+     "size": 6754778.847999998
+    }
+   ],
+   "name": "UMD FINE ARTS, SCHOOL OF"
+  },
+  {
+   "children": [
+    {
+     "name": "UMD Educ & Human Svc Prof",
+     "size": 9655328.485999998
+    }
+   ],
+   "name": "UMD EDUC/HUMAN SVC PROFESSIONS"
+  },
+  {
+   "children": [
+    {
+     "name": "UMD Labovitz Sch of Bus & Econ",
+     "size": 7169893.113
+    }
+   ],
+   "name": "UMD BUS/ECON, LABOVITZ SCH OF"
+  }
+ ],
+ "name": "UMN Salaries"
+}
