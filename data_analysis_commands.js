@@ -115,3 +115,14 @@ db.employees.aggregate(
 
 // aggregate down to department level
 db.employees.aggregate([{$match : {"annual_rt": {$gt: 9999.0 } }},{ $group: { _id: { college: "$college_descr", department: "$zdeptid_descr" }, annual_rt: {$sum : "$annual_rt"}}},{$out: "college_and_departments"}])
+
+
+db.employees.aggregate(
+	[
+		{$match : {"annual_rt": {$gt: 9999.0 } }},
+		{ $group: { _id: { college: "$college_descr", department: "$zdeptid_descr" },
+		    annual_rt: {$sum : "$annual_rt"}
+		}},
+		{$out: "college_and_departments"}
+	])
+	
